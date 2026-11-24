@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>XmlVariableScanner</AssemblyName>
+    <RootNamespace>XmlVariableScanner.Desktop</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XmlVariableScanner.Core\XmlVariableScanner.Core.csproj" />
+    <ProjectReference Include="..\XmlVariableScanner.Reports\XmlVariableScanner.Reports.csproj" />
+  </ItemGroup>
+</Project>

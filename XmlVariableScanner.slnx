@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/XmlVariableScanner.Core/XmlVariableScanner.Core.csproj" />
+  <Project Path="src/XmlVariableScanner.Reports/XmlVariableScanner.Reports.csproj" />
+  <Project Path="src/XmlVariableScanner.Desktop/XmlVariableScanner.Desktop.csproj" />
+  <Project Path="tests/XmlVariableScanner.Tests/XmlVariableScanner.Tests.csproj" />
+</Solution>

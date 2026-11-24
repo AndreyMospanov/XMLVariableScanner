@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.tmp
+TestResults/
+artifacts/
+.dotnet_home/
+.nuget/
+*.xlsx
+*.log
